@@ -1,5 +1,3 @@
-# Information 
-### Programming Languages: C++, Python, Lua
-
-### Learning: SecOps, ASM, C++, C# (Eventually)
-![SadisticRat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadisticrat&theme=dark&show_icons=true&hide_border=true)
+# Languages: LuaU/Lua, Python, C++, HTML, CSS, Javascript (Only use it in frontend I also hate the syntax)
+# "Skills": Full Stack, General Programming 
+# Learning: Cybersecurity (Pentesting), C++, Embedded Systems Programming
